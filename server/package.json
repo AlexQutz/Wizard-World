@@ -1,0 +1,19 @@
+{
+    "name": "wizard-world-server",
+    "version": "1.0.0",
+    "description": "Node.js server for Wizard World API",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.3"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "author": "Tolis",
+    "license": "MIT"
+}
